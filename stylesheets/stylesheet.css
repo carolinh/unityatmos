@@ -188,6 +188,12 @@ hr {
   color: #777;
 }
 
+.affiliation{
+  padding-top: 0px;
+  margin-top: 0px;
+  font-size: 10px;
+}
+
 /* Buttons
 */
 
