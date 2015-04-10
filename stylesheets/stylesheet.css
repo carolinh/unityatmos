@@ -181,6 +181,12 @@ hr {
   color: #b5e853;
 }
 
+.figure-label {
+  padding-top: 0px;
+  font-size: 30px;
+  color: #aaa;
+}
+
 /* Buttons
 */
 
